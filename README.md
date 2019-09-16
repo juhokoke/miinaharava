@@ -1,2 +1,2 @@
 # miinaharava
-Miinaharava
+Miinaharava lopputyö ohjelmoinnin alkeet kurssille.
