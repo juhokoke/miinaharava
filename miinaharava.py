@@ -9,7 +9,7 @@ import gameui
 vaikeustaso = {
     "helppo": (9, 9, 10),
     "keskivaikea": (16, 16, 40),
-    "vaikea": (30, 16, 90),
+    "vaikea": (16, 30, 90),
     "custom": (0, 0, 0)
     }
     
